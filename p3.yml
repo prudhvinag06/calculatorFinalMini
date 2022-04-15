@@ -12,3 +12,5 @@
       shell: docker pull prudhvinag637/miniprojfinal
       
     - name: running container
+      shell: docker run -it -d prudhvinag637/miniprojfinal
+
